@@ -5,11 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;Django+Backend+Learner;Building+Real+World+Projects;Future+Full+Stack+Developer" />
 </p>
 
----
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRicDY4cHl0eWE5cDY1dnRiY2t4czloN2E1Y3hmM2N0MnBzMW9rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+</p>
 
-<table>
-<tr>
-<td width="60%">
+---
 
 ## 👨‍💻 About Me
 
@@ -17,33 +17,13 @@
 - 🚀 Building practical web applications
 - 💡 Interested in Backend Development & Problem Solving
 - 🎯 Goal: Become a Professional Full Stack Developer
-  
-
----
-
-## 🚀 Current Focus
-
-- 🔥 Improving Django backend skills  
-- 📚 Learning  APIs  
-- 🎨 Enhancing frontend UI  
-- 💼 Preparing for internships & entry-level roles  
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVidDN3MXY5cWlma2J0dTVmeTB4c2VwbGRlYmsxajZ5dmM4Ym01bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="300"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,django,html,css,js,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -60,6 +40,15 @@
 
 ---
 
+## 🚀 Current Focus
+
+- 🔥 Improving Django backend skills  
+- 📚 Learning REST APIs  
+- 🎨 Enhancing frontend UI  
+- 💼 Preparing for internships & entry-level roles  
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -69,3 +58,5 @@
 </p>
 
 📧 **anandms315@gmail.com**
+
+---
