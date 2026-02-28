@@ -17,14 +17,14 @@
 - 🚀 Building practical web applications
 - 💡 Interested in Backend Development & Problem Solving
 - 🎯 Goal: Become a Professional Full Stack Developer
-- ⚡ Fun Fact: I enjoy debugging more than writing code!
+  
 
 ---
 
 ## 🚀 Current Focus
 
 - 🔥 Improving Django backend skills  
-- 📚 Learning REST APIs  
+- 📚 Learning  APIs  
 - 🎨 Enhancing frontend UI  
 - 💼 Preparing for internships & entry-level roles  
 
