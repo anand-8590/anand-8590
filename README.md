@@ -5,11 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;Django+Backend+Learner;Building+Real+World+Projects;Future+Full+Stack+Developer" />
 </p>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVidDN3MXY5cWlma2J0dTVmeTB4c2VwbGRlYmsxajZ5dmM4Ym01bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="400" />
-</p>
-
 ---
+
+<table>
+<tr>
+<td width="60%">
 
 ## 👨‍💻 About Me
 
@@ -18,6 +18,25 @@
 - 💡 Interested in Backend Development & Problem Solving
 - 🎯 Goal: Become a Professional Full Stack Developer
 - ⚡ Fun Fact: I enjoy debugging more than writing code!
+
+---
+
+## 🚀 Current Focus
+
+- 🔥 Improving Django backend skills  
+- 📚 Learning REST APIs  
+- 🎨 Enhancing frontend UI  
+- 💼 Preparing for internships & entry-level roles  
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVidDN3MXY5cWlma2J0dTVmeTB4c2VwbGRlYmsxajZ5dmM4Ym01bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,15 +60,6 @@
 
 ---
 
-## 🚀 Current Focus
-
-- 🔥 Improving Django backend skills  
-- 📚 Learning REST APIs  
-- 🎨 Enhancing frontend UI  
-- 💼 Preparing for internships & entry-level roles  
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -59,5 +69,3 @@
 </p>
 
 📧 **anandms315@gmail.com**
-
----
